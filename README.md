@@ -4,7 +4,7 @@ pkg update && pkg upgrade -y
 
 pkg install python nano git -y
 
-git clone https://github.com/asfakulsiam/dMiner.git
+git clone https://github.com/sabbir520/dMiner.git
 
 cd dMiner
 
